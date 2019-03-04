@@ -8,3 +8,4 @@
 
 echo "OK";
 echo "dodadeno";
+echo "dodadeno od new-feature";
